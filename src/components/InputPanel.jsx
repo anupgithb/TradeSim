@@ -1,0 +1,83 @@
+import React from "react";
+import {
+    Box,
+    Typography,
+    TextField,
+    FormControl,
+    InputLabel,
+    Select,
+    MenuItem,
+    Paper,
+} from "@mui/material";
+
+export function InputPanel({ params, onChange }) {
+    return (
+        <Paper elevation={3} sx={{ p: 2, height: "100%" }}>
+            <Typography variant="h6" gutterBottom>
+                Input Parameters
+            </Typography>
+
+            <FormControl fullWidth margin="dense">
+                <InputLabel>Exchange</InputLabel>
+                <Select
+                    name="exchange"
+                    value={params.exchange}
+                    label="Exchange"
+                    onChange={onChange}
+                >
+                    <MenuItem value="OKX">OKX</MenuItem>
+                </Select>
+            </FormControl>
+
+            <TextField
+                fullWidth
+                margin="dense"
+                name="spotAsset"
+                label="Spot Asset"
+                value={params.spotAsset}
+                onChange={onChange}
+                placeholder="BTC-USDT"
+            />
+
+            <FormControl fullWidth margin="dense">
+                <InputLabel>Order Type</InputLabel>
+                <Select
+                    name="orderType"
+                    value={params.orderType}
+                    label="Order Type"
+                    onChange={onChange}
+                >
+                    <MenuItem value="market">Market</MenuItem>
+                </Select>
+            </FormControl>
+
+            <TextField
+                fullWidth
+                margin="dense"
+                name="quantity"
+                type="number"
+                label="Quantity (USD)"
+                value={params.quantity}
+                onChange={onChange}
+            />
+
+            <TextField
+                fullWidth
+                margin="dense"
+                name="volatility"
+                label="Volatility"
+                value={params.volatility}
+                onChange={onChange}
+            />
+
+            <TextField
+                fullWidth
+                margin="dense"
+                name="feeTier"
+                label="Fee Tier"
+                value={params.feeTier}
+                onChange={onChange}
+            />
+        </Paper>
+    );
+}
