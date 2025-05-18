@@ -1,0 +1,1 @@
+[2025-05-18 00:57:39.162] [error] [WS] Error: resolve: No such host is known [system:11001 at C:/msys64/mingw64/include/boost/asio/detail/resolver_service.hpp:83 in function 'resolve']

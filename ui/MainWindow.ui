@@ -1,0 +1,5 @@
+// After g_app->run();
+UIUpdater updater(g_app->metricsReady_);
+MainWindow w(&updater);
+w.show();
+return app.exec();

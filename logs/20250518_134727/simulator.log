@@ -1,0 +1,954 @@
+[2025-05-18 01:32:18.849] [info] [WS] Connected & handshake succeeded
+[2025-05-18 01:32:18.854] [info] [WS] Sent subscription message: {"args":[{"channel":"tickers","instId":"BTC-USDT"}],"op":"subscribe"}
+[2025-05-18 01:32:19.156] [info] [WS] Received 89 bytes
+[2025-05-18 01:32:19.156] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:19.156] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:19.157] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:19.157] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:19.157] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:19.156] [info] [BookLoop] Got raw tick (89 bytes)
+[2025-05-18 01:32:19.159] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:19.159] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:19.159] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:19.159] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:19.159] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:20.181] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:20.181] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:20.181] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:20.181] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:20.692] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:20.692] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:20.692] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:20.693] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:21.102] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:21.102] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:21.102] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:21.102] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:21.307] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:21.307] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:21.307] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:21.307] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:21.511] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:21.511] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:21.511] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:21.511] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:21.716] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:21.716] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:21.716] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:21.717] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.023] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:22.023] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.023] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:22.024] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.027] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:22.027] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.027] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:22.027] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.228] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:22.228] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.228] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:22.228] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.281] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:22.281] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.281] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:22.281] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.740] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:22.740] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.740] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:22.740] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:22.812] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:22.812] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:22.812] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:22.812] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.047] [info] [WS] Received 393 bytes
+[2025-05-18 01:32:23.047] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.047] [info] [BookLoop] Got raw tick (393 bytes)
+[2025-05-18 01:32:23.047] [info] [WS] Received 393 bytes
+[2025-05-18 01:32:23.047] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.048] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.048] [info] [BookLoop] Got raw tick (393 bytes)
+[2025-05-18 01:32:23.048] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.149] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:23.150] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.150] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:23.150] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.225] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:23.225] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.225] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:23.225] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.458] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:23.458] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.458] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:23.458] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.768] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:23.768] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.768] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:23.769] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:23.969] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:23.969] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:23.969] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:23.969] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:24.685] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:24.686] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:24.686] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:24.686] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:24.712] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:24.713] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:24.713] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:24.713] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.095] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:25.095] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.095] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:25.095] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.300] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:25.300] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.300] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:25.300] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.312] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:25.312] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.312] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:25.312] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.505] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:25.505] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.505] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:25.505] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.536] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:25.536] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.536] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:25.536] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:25.709] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:25.709] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:25.709] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:25.709] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:26.119] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:26.119] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:26.119] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:26.119] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:26.631] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:26.631] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:26.631] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:26.631] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:26.836] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:26.836] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:26.836] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:26.836] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:27.041] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:27.041] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:27.041] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:27.041] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:27.107] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:27.107] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:27.107] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:27.107] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:27.213] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:27.213] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:27.213] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:27.213] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:28.269] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:28.269] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:28.269] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:28.270] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:28.987] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:28.987] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:28.987] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:28.987] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:29.191] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:29.191] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:29.191] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:29.191] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:30.522] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:30.522] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:30.522] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:30.522] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:30.584] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:30.584] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:30.584] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:30.585] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:30.829] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:30.829] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:30.829] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:30.829] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:31.652] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:31.652] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:31.652] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:31.653] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:32.058] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:32.058] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:32.058] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:32.058] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:32.570] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:32.570] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:32.570] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:32.571] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:32.775] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:32.775] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:32.775] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:32.775] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:32.832] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:32.832] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:32.832] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:32.833] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:33.185] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:33.185] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:33.185] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:33.186] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:33.492] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:33.492] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:33.492] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:33.492] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:34.516] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:34.516] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:34.516] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:34.516] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:35.027] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:35.027] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:35.027] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:35.028] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:35.233] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:35.233] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:35.233] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:35.233] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:35.437] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:35.437] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:35.437] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:35.438] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:35.642] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:35.643] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:35.643] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:35.643] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:36.359] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:36.359] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:36.359] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:36.359] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:36.564] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:36.564] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:36.564] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:36.564] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:36.878] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:36.878] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:36.878] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:36.878] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:37.076] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:37.076] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:37.076] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:37.077] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:37.077] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:37.077] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:37.077] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:37.077] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:37.383] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:37.383] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:37.383] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:37.383] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:37.602] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:37.603] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:37.603] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:37.603] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.100] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:38.100] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.100] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:38.101] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.134] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:38.134] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.134] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:38.135] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.304] [info] [WS] Received 393 bytes
+[2025-05-18 01:32:38.304] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.304] [info] [BookLoop] Got raw tick (393 bytes)
+[2025-05-18 01:32:38.305] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.509] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:38.509] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.509] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:38.510] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.572] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:38.572] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.572] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:38.572] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.816] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:38.816] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.816] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:38.816] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:38.816] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:38.817] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:38.817] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:38.817] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.125] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.125] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.125] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.125] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.126] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.127] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.127] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.127] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.432] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.432] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.432] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.432] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.503] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.503] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.503] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.503] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.739] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.739] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.739] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.739] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:39.809] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:39.810] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:39.810] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:39.810] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:40.046] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:40.046] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:40.046] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:40.046] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:41.275] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:41.275] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:41.275] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:41.275] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:41.479] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:41.479] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:41.479] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:41.480] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:41.786] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:41.786] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:41.786] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:41.786] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:41.822] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:41.822] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:41.822] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:41.823] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.094] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:42.094] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.094] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:42.094] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.299] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:42.299] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.299] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:42.299] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.312] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:42.312] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.312] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:42.312] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.503] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:42.503] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.503] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:42.503] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.521] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:42.521] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.521] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:42.521] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.708] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:42.708] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.708] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:42.709] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:42.767] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:42.767] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:42.767] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:42.767] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:43.015] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:43.015] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:43.015] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:43.015] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:43.424] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:43.424] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:43.424] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:43.425] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:43.629] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:43.629] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:43.629] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:43.630] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:43.688] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:43.688] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:43.688] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:43.688] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:43.835] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:43.835] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:43.835] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:43.835] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:44.039] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:44.039] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:44.039] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:44.039] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:44.243] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:44.243] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:44.243] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:44.244] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:44.961] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:44.961] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:44.961] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:44.961] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:45.267] [info] [WS] Received 393 bytes
+[2025-05-18 01:32:45.267] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:45.267] [info] [BookLoop] Got raw tick (393 bytes)
+[2025-05-18 01:32:45.268] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:45.472] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:45.472] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:45.472] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:45.473] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:46.189] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:46.189] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:46.189] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:46.189] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:46.394] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:46.394] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:46.394] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:46.395] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:46.607] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:46.607] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:46.607] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:46.607] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:46.804] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:46.804] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:46.804] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:46.804] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.008] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:47.008] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.008] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:47.008] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.077] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:47.077] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.077] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:47.077] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.214] [info] [WS] Received 394 bytes
+[2025-05-18 01:32:47.214] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.214] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:32:47.214] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.527] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:47.527] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.527] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:47.528] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.548] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:47.548] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.548] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:47.549] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.725] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:47.725] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.725] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:47.725] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.789] [info] [WS] Received 396 bytes
+[2025-05-18 01:32:47.789] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.789] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:32:47.790] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:47.929] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:47.930] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:47.930] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:47.930] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:48.006] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:48.006] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:48.006] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:48.006] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:48.237] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:48.237] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:48.237] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:48.237] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:48.241] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:48.241] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:48.241] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:48.242] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:48.851] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:48.851] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:48.851] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:48.852] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:49.186] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:49.186] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:49.186] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:49.186] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:49.466] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:49.466] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:49.466] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:49.466] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:49.670] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:49.670] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:49.670] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:49.671] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:50.285] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:50.285] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:50.285] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:50.285] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:50.490] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:50.490] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:50.490] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:50.490] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:50.899] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:50.899] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:50.899] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:50.900] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:50.967] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:50.967] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:50.967] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:50.967] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:51.214] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:51.214] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:51.214] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:51.214] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:51.214] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:51.215] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:51.215] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:51.215] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:51.616] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:51.617] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:51.617] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:51.617] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:51.821] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:51.821] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:51.821] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:51.821] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:51.886] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:51.886] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:51.886] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:51.886] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:52.131] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:52.131] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:52.131] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:52.131] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:52.131] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:52.131] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:52.131] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:52.131] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:52.445] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:52.445] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:52.445] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:52.446] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:52.640] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:52.640] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:52.640] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:52.641] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:53.158] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:53.158] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:53.158] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:53.159] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:53.221] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:53.221] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:53.221] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:53.221] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:53.562] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:53.562] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:53.562] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:53.562] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:53.766] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:53.766] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:53.766] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:53.767] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:53.971] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:53.971] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:53.971] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:53.972] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:54.279] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:54.279] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:54.279] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:54.279] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:55.507] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:55.507] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:55.507] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:55.508] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:55.917] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:55.917] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:55.917] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:55.917] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:56.122] [info] [WS] Received 397 bytes
+[2025-05-18 01:32:56.122] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:56.122] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:32:56.122] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:56.326] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:56.326] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:56.326] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:56.326] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:57.350] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:57.350] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:57.350] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:57.351] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:57.412] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:57.412] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:57.412] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:57.413] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:57.660] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:57.660] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:57.660] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:57.661] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:57.863] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:57.863] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:57.863] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:57.863] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:58.170] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:58.170] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:58.170] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:58.170] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:58.222] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:58.222] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:58.222] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:58.222] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:58.710] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:58.710] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:58.710] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:58.710] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:58.886] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:58.886] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:58.886] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:58.887] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:58.948] [info] [WS] Received 398 bytes
+[2025-05-18 01:32:58.948] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:58.948] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:32:58.949] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:59.194] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:59.195] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:59.195] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:59.195] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:59.501] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:59.501] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:59.501] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:59.501] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:59.524] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:59.524] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:59.524] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:59.525] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:32:59.808] [info] [WS] Received 395 bytes
+[2025-05-18 01:32:59.808] [info] [WS] Pushed tick into queue
+[2025-05-18 01:32:59.808] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:32:59.808] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:00.115] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:00.115] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:00.115] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:00.115] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:00.131] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:00.131] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:00.131] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:00.132] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:01.037] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:01.037] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:01.037] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:01.038] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:01.120] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:01.120] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:01.120] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:01.121] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:01.241] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:01.241] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:01.241] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:01.242] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:01.549] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:01.549] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:01.549] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:01.549] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:01.753] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:01.754] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:01.754] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:01.754] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:02.019] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:02.019] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:02.019] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:02.019] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:02.163] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:02.163] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:02.163] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:02.163] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:02.226] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:02.226] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:02.226] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:02.226] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:02.777] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:02.778] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:02.778] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:02.778] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:02.982] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:02.982] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:02.982] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:02.983] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:03.053] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:03.053] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:03.053] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:03.054] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:03.131] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:03.131] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:03.131] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:03.131] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:03.289] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:03.290] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:03.290] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:03.290] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:03.802] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:03.802] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:03.802] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:03.802] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:03.836] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:03.836] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:03.836] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:03.836] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:04.108] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:04.108] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:04.108] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:04.109] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:04.620] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:04.620] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:04.620] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:04.620] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:04.825] [info] [WS] Received 393 bytes
+[2025-05-18 01:33:04.825] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:04.825] [info] [BookLoop] Got raw tick (393 bytes)
+[2025-05-18 01:33:04.825] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.030] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:05.030] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.030] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:05.030] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.235] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:05.235] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.235] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:05.235] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.270] [info] [WS] Received 394 bytes
+[2025-05-18 01:33:05.270] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.270] [info] [BookLoop] Got raw tick (394 bytes)
+[2025-05-18 01:33:05.271] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.440] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:05.440] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.440] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:05.440] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.506] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:05.506] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.506] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:05.506] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.952] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:05.952] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.952] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:05.952] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:05.977] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:05.977] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:05.977] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:05.977] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:06.259] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:06.259] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:06.259] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:06.259] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:06.976] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:06.976] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:06.976] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:06.976] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:07.180] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:07.180] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:07.181] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:07.181] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:07.200] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:07.200] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:07.200] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:07.201] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:07.385] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:07.385] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:07.385] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:07.386] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:07.445] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:07.445] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:07.445] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:07.446] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:07.693] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:07.693] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:07.693] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:07.693] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:08.103] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:08.103] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:08.103] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:08.103] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:08.425] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:08.425] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:08.425] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:08.426] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:08.614] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:08.614] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:08.614] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:08.614] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:08.625] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:08.625] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:08.625] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:08.625] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:09.331] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:09.331] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:09.331] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:09.331] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:09.535] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:09.535] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:09.535] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:09.536] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:09.945] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:09.945] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:09.945] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:09.946] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:10.010] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:10.010] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:10.010] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:10.010] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:10.560] [info] [WS] Received 397 bytes
+[2025-05-18 01:33:10.560] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:10.560] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:33:10.560] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:10.614] [info] [WS] Received 397 bytes
+[2025-05-18 01:33:10.614] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:10.614] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:33:10.614] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:10.764] [info] [WS] Received 397 bytes
+[2025-05-18 01:33:10.764] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:10.764] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:33:10.764] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:11.276] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:11.276] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:11.276] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:11.276] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:11.310] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:11.310] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:11.310] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:11.311] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:11.481] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:11.481] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:11.481] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:11.481] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:11.686] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:11.686] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:11.686] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:11.686] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:12.404] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:12.404] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:12.404] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:12.405] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:12.480] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:12.480] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:12.480] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:12.480] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:13.119] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:13.119] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:13.119] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:13.120] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:13.176] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:13.176] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:13.176] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:13.177] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:13.702] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:13.702] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:13.702] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:13.702] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:14.041] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:14.041] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:14.041] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:14.041] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:14.348] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:14.348] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:14.348] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:14.348] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:14.553] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:14.553] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:14.553] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:14.553] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:14.610] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:14.610] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:14.610] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:14.611] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:14.758] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:14.758] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:14.758] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:14.758] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:15.269] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:15.269] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:15.270] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:15.270] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:15.577] [info] [WS] Received 392 bytes
+[2025-05-18 01:33:15.577] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:15.577] [info] [BookLoop] Got raw tick (392 bytes)
+[2025-05-18 01:33:15.577] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:15.782] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:15.782] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:15.782] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:15.782] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:15.810] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:15.810] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:15.810] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:15.811] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:16.806] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:16.806] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:16.806] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:16.806] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:17.010] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:17.010] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:17.010] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:17.011] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:17.317] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:17.317] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:17.317] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:17.318] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:17.523] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:17.523] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:17.523] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:17.523] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:18.752] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:18.752] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:18.752] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:18.752] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:19.264] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:19.264] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:19.264] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:19.264] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:20.083] [info] [WS] Received 398 bytes
+[2025-05-18 01:33:20.083] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:20.083] [info] [BookLoop] Got raw tick (398 bytes)
+[2025-05-18 01:33:20.083] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:20.697] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:20.697] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:20.697] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:20.697] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:20.715] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:20.715] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:20.715] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:20.716] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:20.902] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:20.902] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:20.902] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:20.902] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:21.106] [info] [WS] Received 397 bytes
+[2025-05-18 01:33:21.107] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:21.107] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:33:21.107] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:21.107] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:21.107] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:21.107] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:21.107] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.130] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:22.130] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.130] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:22.130] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.370] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:22.370] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.370] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:22.370] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.540] [info] [WS] Received 395 bytes
+[2025-05-18 01:33:22.540] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.540] [info] [BookLoop] Got raw tick (395 bytes)
+[2025-05-18 01:33:22.540] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.614] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:22.614] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.614] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:22.614] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.745] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:22.745] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.745] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:22.745] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:22.949] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:22.949] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:22.949] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:22.950] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:23.564] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:23.564] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:23.564] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:23.564] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:23.565] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:23.565] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:23.565] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:23.565] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:23.769] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:23.769] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:23.769] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:23.769] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:24.076] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:24.076] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:24.076] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:24.076] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:24.281] [info] [WS] Received 396 bytes
+[2025-05-18 01:33:24.281] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:24.281] [info] [BookLoop] Got raw tick (396 bytes)
+[2025-05-18 01:33:24.281] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
+[2025-05-18 01:33:24.316] [info] [WS] Received 397 bytes
+[2025-05-18 01:33:24.316] [info] [WS] Pushed tick into queue
+[2025-05-18 01:33:24.316] [info] [BookLoop] Got raw tick (397 bytes)
+[2025-05-18 01:33:24.316] [info] [ModelLoop] Slippage=0.00  Impact=0.04  Fees=0.04  Net=0.08
