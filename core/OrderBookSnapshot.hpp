@@ -2,26 +2,35 @@
 
 #include "core/OrderBook.hpp"
 #include <chrono>
+#include <vector>
 
-/// A lightweight snapshot of the order book and derived metrics
+/// A snapshot of the top N levels of the L2 order book plus meta‑data.
 struct OrderBookSnapshot
 {
-    Level topBid;                                    ///< best bid level
-    Level topAsk;                                    ///< best ask level
-    double estimatedDailyVolume;                     ///< e.g., from historical data or config
-    double makerTakerRatio;                          ///< from recent trades (0.0–1.0)
-    std::chrono::steady_clock::time_point timestamp; ///< when snapshot taken
+    std::vector<Level> bids; ///< Top N bids (best‑first)
+    std::vector<Level> asks; ///< Top N asks (best‑first)
 
-    /// Create a snapshot directly from an OrderBook
-    static OrderBookSnapshot fromBook(const OrderBook &book,
-                                      double dailyVolume,
-                                      double makerRatio)
+    double estimatedDailyVolume; ///< Historical/configured daily volume (USD)
+    double makerTakerRatio;      ///< Recent maker vs taker fraction (0.0–1.0)
+
+    std::chrono::steady_clock::time_point timestamp; ///< When snapshot was taken
+
+    /// Build a snapshot from the live OrderBook.
+    /// - `depth`   : how many levels on each side to capture
+    /// - `dailyVol`: historical or config daily volume (USD)
+    /// - `makerR`  : recent maker/taker ratio
+    static OrderBookSnapshot fromBook(
+        const OrderBook &book,
+        size_t depth = 10,
+        double dailyVol = 1e6,
+        double makerR = 0.3)
     {
-        auto [bid, ask] = book.topOfBook();
-        return OrderBookSnapshot{
-            bid, ask,
-            dailyVolume,
-            makerRatio,
-            std::chrono::steady_clock::now()};
+        OrderBookSnapshot s;
+        s.bids = book.topLevels(depth, /*isBid=*/true);
+        s.asks = book.topLevels(depth, /*isBid=*/false);
+        s.estimatedDailyVolume = dailyVol;
+        s.makerTakerRatio = makerR;
+        s.timestamp = std::chrono::steady_clock::now();
+        return s;
     }
 };

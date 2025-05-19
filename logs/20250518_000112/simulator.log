@@ -1,1 +1,0 @@
-[2025-05-17 23:50:25.294] [error] WebSocket error: The WebSocket handshake was declined by the remote peer [boost.beast.websocket:20 at C:/msys64/mingw64/include/boost/beast/websocket/impl/stream_impl.hpp:657 in function 'operator()']

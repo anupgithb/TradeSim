@@ -44,6 +44,7 @@ private:
     double dailyVolume_ = 1000000.0; ///< default daily volume USD
     double makerRatio_ = 0.3;        ///< default maker ratio
     double orderSizeUsd_ = 100.0;
+    double volatility_ = 1;
 
     // UI broadcast server context and thread
     net::io_context ioc_for_ui_;

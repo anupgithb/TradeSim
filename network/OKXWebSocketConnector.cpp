@@ -105,7 +105,9 @@
 #include <openssl/ssl.h>
 
 OKXWebSocketConnector::OKXWebSocketConnector(LockFreeQueue<std::string> &queue)
-    : rawQueue_(queue), ioc_(), resolver_(ioc_), sslCtx_(ssl::context::tlsv12_client), ws_(ioc_, sslCtx_), host_("ws.okx.com"), port_("443"), target_("/ws/v5/public")
+    : rawQueue_(queue), ioc_(), resolver_(ioc_), sslCtx_(ssl::context::tlsv12_client), ws_(ioc_, sslCtx_), host_("ws.gomarket-cpp.goquant.io"),
+      port_("443"),
+      target_("/ws/l2-orderbook/okx/BTC-USDT-SWAP")
 {
 }
 
@@ -194,7 +196,7 @@ void OKXWebSocketConnector::run()
         // Send subscription message
         nlohmann::json subscribeMsg = {
             {"op", "subscribe"},
-            {"args", {{{"channel", "tickers"}, {"instId", "BTC-USDT"}}}}};
+            {"args", {{{"channel", "books"}, {"instId", "BTC-USDT"}}}}};
 
         std::string subStr = subscribeMsg.dump();
         ws_.write(boost::asio::buffer(subStr));
