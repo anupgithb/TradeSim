@@ -67,32 +67,32 @@ export function OutputPanel({ metrics }) {
 
             <Box sx={{ mb: 1 }}>
                 <Typography>
-                    <strong>Expected Slippage:</strong> {slippage.toFixed(4)}
+                    <strong>Expected Slippage:</strong> {slippage.toFixed(8)}
                 </Typography>
             </Box>
             <Box sx={{ mb: 1 }}>
                 <Typography>
-                    <strong>Expected Fees:</strong> {fees.toFixed(4)}
+                    <strong>Expected Fees:</strong> {fees.toFixed(6)}
                 </Typography>
             </Box>
             <Box sx={{ mb: 1 }}>
                 <Typography>
-                    <strong>Market Impact:</strong> {impact.toFixed(4)}
+                    <strong>Market Impact:</strong> {impact.toFixed(6)}
                 </Typography>
             </Box>
             <Box sx={{ mb: 1 }}>
                 <Typography>
-                    <strong>Net Cost:</strong> {netCost.toFixed(4)}
+                    <strong>Net Cost:</strong> {netCost.toFixed(6)}
                 </Typography>
             </Box>
             <Box sx={{ mb: 1 }}>
                 <Typography>
-                    <strong>Maker/Taker Proportion:</strong> {makerTakerRatio.toFixed(4)}
+                    <strong>Maker/Taker Proportion:</strong> {makerTakerRatio.toFixed(6)}
                 </Typography>
             </Box>
             <Box>
                 <Typography>
-                    <strong>Internal Latency (ms):</strong> {internalLatency.toFixed(2)}
+                    <strong>Internal Latency (ms):</strong> {internalLatency.toFixed(6)}
                 </Typography>
             </Box>
         </Paper>
