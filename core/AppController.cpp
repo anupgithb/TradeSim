@@ -24,23 +24,6 @@ AppController::~AppController()
     stop();
 }
 
-// void AppController::run()
-// {
-//     running_ = true;
-
-//     // Start the UI broadcast server on port 9000
-//     uiServer_ = std::make_unique<UIBroadcastServer>(ioc_for_ui_, 9000);
-//     uiServer_->run();
-//     // Run the UI io_context in its own thread
-//     uiThread_ = std::thread([this]()
-//                             { ioc_for_ui_.run(); });
-
-//     // Start core processing threads
-//     wsThread_ = std::thread(&AppController::wsLoop, this);
-//     bookThread_ = std::thread(&AppController::bookLoop, this);
-//     modelThread_ = std::thread(&AppController::modelLoop, this);
-// }
-
 void AppController::run()
 {
     running_ = true;
